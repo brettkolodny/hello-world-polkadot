@@ -13,6 +13,9 @@
 ### [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
 https://github.com/brettkolodny/moonbase-alpha-truffle
 
+### [ECOSYSTEM CHALLENGE] (Beginner) Build and Run a Local Phala Network
+https://twitter.com/breadattempts/status/1321536556503601152
+
 ### [BEGINNER CHALLENGES] Back-End Javascript
 https://github.com/brettkolodny/polkablock
 
