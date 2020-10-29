@@ -10,6 +10,8 @@
 
 ## Projects
 
+9/18 completed
+
 ### [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
 https://github.com/brettkolodny/moonbase-alpha-truffle
 
@@ -28,7 +30,7 @@ https://github.com/brettkolodny/polkablock-web
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
 
-## [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1 
+### [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1 
 https://github.com/brettkolodny/plasm-flipper
 
 ### [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
