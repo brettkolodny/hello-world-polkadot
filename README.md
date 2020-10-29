@@ -16,6 +16,9 @@ https://github.com/brettkolodny/moonbase-alpha-truffle
 ### [ECOSYSTEM CHALLENGE] (Beginner) Build and Run a Local Phala Network
 https://twitter.com/breadattempts/status/1321536556503601152
 
+### [BEGINNER CHALLENGE] Launch a local Substrate development chain
+https://github.com/brettkolodny/local-substrate/blob/main/Transactions.png
+
 ### [BEGINNER CHALLENGES] Back-End Javascript
 https://github.com/brettkolodny/polkablock
 
