@@ -33,6 +33,9 @@ https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
 ### [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1 
 https://github.com/brettkolodny/plasm-flipper
 
+### [BEGINNER CHALLENGES] Play with Westend
+https://westend.subscan.io/extrinsic/2856215-1
+
 ### [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
 https://github.com/brettkolodny/polkadot-highfive
 
