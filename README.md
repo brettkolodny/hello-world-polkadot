@@ -10,7 +10,7 @@
 
 ## Projects
 
-9/18 completed
+10/18 completed
 
 ### [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
 https://github.com/brettkolodny/moonbase-alpha-truffle
