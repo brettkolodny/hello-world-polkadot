@@ -10,13 +10,16 @@
 
 ## Projects
 
-10/18 completed
+11/18 completed
 
 ### [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
 https://github.com/brettkolodny/moonbase-alpha-truffle
 
 ### [ECOSYSTEM CHALLENGE] (Beginner) Build and Run a Local Phala Network
 https://twitter.com/breadattempts/status/1321536556503601152
+
+### [ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam
+`0xd55D24C8dC190cd26E6DBb83228D5ad4e3c63466`
 
 ### [BEGINNER CHALLENGE] Launch a local Substrate development chain
 https://github.com/brettkolodny/local-substrate/blob/main/Transactions.png
