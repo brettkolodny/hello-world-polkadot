@@ -45,3 +45,6 @@ https://westend.subscan.io/extrinsic/2856215-1
 ### [ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam
 `0xd55D24C8dC190cd26E6DBb83228D5ad4e3c63466`
 
+### [BEGINNER CHALLENGE] Run a private Substrate network
+https://github.com/brettkolodny/private-substrate-network
+
