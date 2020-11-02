@@ -10,7 +10,7 @@
 
 ## Projects
 
-12/18 completed
+13/18 completed
 
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
