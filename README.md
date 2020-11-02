@@ -48,3 +48,5 @@ https://westend.subscan.io/extrinsic/2856215-1
 ### [BEGINNER CHALLENGE] Run a private Substrate network
 https://github.com/brettkolodny/private-substrate-network
 
+### [INTERMEDIATE CHALLENGE] Forkless Upgrades
+https://github.com/brettkolodny/forkless-upgrade
