@@ -10,7 +10,7 @@
 
 ## Projects
 
-15/18 completed
+16/18 completed
 
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
@@ -56,3 +56,6 @@ https://github.com/brettkolodny/identity-node
 
 ### [INTERMEDIATE CHALLENGE] FRAME Multisig
 https://github.com/brettkolodny/polkadot-multisig-challenge
+
+### [ECOSYSTEM CHALLENGE] Enable NFT Support
+https://github.com/brettkolodny/acala-nft-node
