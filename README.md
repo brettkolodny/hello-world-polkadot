@@ -10,7 +10,7 @@
 
 ## Projects
 
-14/18 completed
+15/18 completed
 
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
@@ -53,3 +53,6 @@ https://github.com/brettkolodny/forkless-upgrade
 
 ### [INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain
 https://github.com/brettkolodny/identity-node
+
+### [INTERMEDIATE CHALLENGE] FRAME Multisig
+https://github.com/brettkolodny/polkadot-multisig-challenge
