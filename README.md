@@ -10,7 +10,7 @@
 
 ## Projects
 
-18/18 completed
+19/18 completed
 
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
@@ -65,3 +65,6 @@ https://github.com/brettkolodny/polkadot-telemetry-node
 
 ### [INTERMEDIATE CHALLENGE] FRAME Development
 https://github.com/brettkolodny/polkadot-frame-development
+
+### [ADVANCED CHALLENGE] REST APIs - Build a transaction fee estimator
+https://github.com/brettkolodny/transaction-fee-calculator
