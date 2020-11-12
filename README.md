@@ -5,7 +5,7 @@
 ### Polkadot
 `1yrUupBDQhkYArLViHHuTtHRCBKAZTTU6PUcFpiDUF58wes`
 
-### Kasuma
+### Kusama
 `14aAEzNPLcHd9cX2ofZNyekRQcFDX76PyCnuRynzCqqhgGDa`
 
 ## Projects
@@ -68,3 +68,6 @@ https://github.com/brettkolodny/polkadot-frame-development
 
 ### [ADVANCED CHALLENGE] REST APIs - Build a transaction fee estimator
 https://github.com/brettkolodny/transaction-fee-calculator
+
+### [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
+https://github.com/brettkolodny/multi-currency
