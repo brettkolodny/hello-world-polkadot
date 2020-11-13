@@ -10,7 +10,7 @@
 
 ## Projects
 
-20/18 completed
+21/18 completed
 
 ### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version 
 https://github.com/brettkolodny/hello-world-by-polkadot/blob/main/onchain.png
@@ -71,3 +71,6 @@ https://github.com/brettkolodny/transaction-fee-calculator
 
 ### [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 https://github.com/brettkolodny/multi-currency
+
+### [ADVANCED CHALLENGE] Build a dApp
+https://github.com/brettkolodny/mosaic
