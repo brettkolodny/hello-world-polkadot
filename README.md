@@ -6,7 +6,7 @@
 `1yrUupBDQhkYArLViHHuTtHRCBKAZTTU6PUcFpiDUF58wes`
 
 ### Kusama
-`14aAEzNPLcHd9cX2ofZNyekRQcFDX76PyCnuRynzCqqhgGDa`
+`G9UkyTC7C35TjKxcjKRjTHGhaXodUMSM5uAfM5b8Z2gEuUF`
 
 ## Projects
 
